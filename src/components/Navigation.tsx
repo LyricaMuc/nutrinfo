@@ -15,7 +15,7 @@ const Container = styled.div`
 const Navigation = () => {
     return (
         <Container>
-            This is the navigation
+            This is the navigation with another text that i have pushed
         </Container>
     )
 }
